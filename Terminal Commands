@@ -1,0 +1,9 @@
+Git linux ve mac de direkt çalışırken Windowsta çalıştırabilmemiz için Git Bash yüklememiz gerekiyor.
+Git ile terminalde çalışacağız bu yüzden komutları öğrenmemiz gerekiyor.
+Git bashi yükleyip kayıt olduktan git bash i açıyoruz ve karşımıza terminal ekranı çıkıyor.
+👻ls komutu---> bir klasörün veya geçerli dizinin içeriğini listelemek.Bu komutla beraber home directory içinde oluruz.Home directory içindeki bir dosyanının içindekileri listelemek istersek gene ls yazıp kalsörün adını yazarız.
+👻start . ---> bu komutla gene home directory klasörlerini dosya gezgininde açabiliriz.
+👻clear---> ekranımızı temizleriz.
+👻pwd --->print working directory: şu anda bulunduğumuz yeri yazdırır.
+👻cd---> change directory:bu komutla hareket ederiz.
+👻cd .. ---> bu komutla teker teker geri gideriz.

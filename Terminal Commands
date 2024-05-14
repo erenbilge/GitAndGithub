@@ -7,3 +7,8 @@ Git bashi yükleyip kayıt olduktan git bash i açıyoruz ve karşımıza termin
 👻pwd --->print working directory: şu anda bulunduğumuz yeri yazdırır.
 👻cd---> change directory:bu komutla hareket ederiz.
 👻cd .. ---> bu komutla teker teker geri gideriz.
+👻touch ---> yeni bir dosya oluşturmak için.İsimleri aralarında boşluk bıırakarak ve uznatısını belirterek yan yana yazarak birden çok dosya açabiliriz.touch komutu o sırada nerede isek orda dosya oluşturur. 
+Örnek>>> touch/documents/süt kardeşler/hayvanListesi.txt şeklinde belirtirsek documentin içindeki süt kardeşler dosyasında hayvan listesi adında bir klasör oluşturur.
+👻mkdir---> make directory: yeni directory oluşturur.
+👻rm--->remove:dosyaları silmek için kalıcı olarak
+👻rm -rf---> directory siler kalıcı olarak
